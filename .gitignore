@@ -267,3 +267,4 @@ Web/raw/HowItWorks.svg
 Web/raw/AppWithoutNetImgui.xcf
 Web/raw/AppWithNetImgui.xcf
 NetImguiServer/imgui.ini
+NetImguiServer/netImgui.cfg
